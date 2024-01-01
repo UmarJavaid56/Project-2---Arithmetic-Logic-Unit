@@ -1,0 +1,7 @@
+db/
+incremental_db/
+simulation/
+simulation_tool_options/
+output_files/
+*.rpt
+*.jdi
